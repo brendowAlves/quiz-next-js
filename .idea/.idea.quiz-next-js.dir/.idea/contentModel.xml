@@ -6,6 +6,12 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="node_modules/@types" t="IncludeRecursive" />
       <e p="node_modules/babel-plugin-styled-components" t="IncludeRecursive" />
+      <e p="node_modules/eslint" t="IncludeRecursive" />
+      <e p="node_modules/eslint-config-airbnb" t="IncludeRecursive" />
+      <e p="node_modules/eslint-plugin-import" t="IncludeRecursive" />
+      <e p="node_modules/eslint-plugin-jsx-a11y" t="IncludeRecursive" />
+      <e p="node_modules/eslint-plugin-react" t="IncludeRecursive" />
+      <e p="node_modules/eslint-plugin-react-hooks" t="IncludeRecursive" />
       <e p="node_modules/next" t="IncludeRecursive" />
       <e p="node_modules/react" t="IncludeRecursive" />
       <e p="node_modules/react-dom" t="IncludeRecursive" />
